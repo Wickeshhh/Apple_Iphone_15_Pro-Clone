@@ -20,6 +20,9 @@ const Footer = () => {
           <p className="font-semibold text-gray text-xs">
             Or call 000800-040-1966
           </p>
+          <p className="font-semibold text-gray text-xs">
+            Thank you JSM!
+          </p>
         </div>
 
         <div className="bg-neutral-700 my-5 h-[1px] w-full" />
